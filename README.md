@@ -1,1 +1,1 @@
-# Iteracion4
+En este proyecto se manejan diferentes consultas en tablas pobladas con un gran volumen de datos. El objetivo es que el tiempo de respuesta para cada consulta se reduzca mediante el uso de indices en diferentes tablas.
